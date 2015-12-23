@@ -1,0 +1,1 @@
+native2ascii res_ja.txt res_ja.properties
